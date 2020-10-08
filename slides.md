@@ -1,4 +1,4 @@
-# Test Ownership
+# TestTest Ownership
 
 by Eva Tobin & Martin Naubert in the scope of the lecture Digital Organization
 
