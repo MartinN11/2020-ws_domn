@@ -131,7 +131,6 @@ _"abillity to acces the information and knowledge of physically owned objects at
 * Sum of data = digital treasure
 * Layer of IoT: Easily accessing information about own objects is challenging -> IoT infrastructure has not been built yet
 * In the information society digital ownership is a natural basic right
-* More and more objects in lives incorporate software and that software is conveyed to people under contract (license) and not ownership -> we do not really own these anymore
 
 ---
 
