@@ -1,5 +1,4 @@
-# TestTest Ownership Hallo Martin 1234
-
+# Ownership
 by Eva Tobin & Martin Naubert in the scope of the lecture Digital Organization
 
 _Prof. Dr. Ulrich Anders - WS 2020_
