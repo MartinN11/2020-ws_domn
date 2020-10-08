@@ -5,13 +5,133 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ---
 
-# Example Agenda
+# Agenda
 
-1. Intoducing Ownership 
-1. Ownership in Companies
-    * Apple
-    * Google   
-1. Future Outlook    
+1. Introduction
+1. Concept of Ownership 
+    * The Ownership Honeycomb
+1. Responsibilities of Owners
+1. Types of Ownership
+    * Single-editor Ownership
+    * Multiple-editor Ownership
+1. Digital Ownership
+
+
+---
+
+# Agenda
+
+6. What does it mean to work for a Company that values Ownership?
+6. Applied Ownership in Companies
+    * XYZ
+    * XY 
+6. Problems of Ownership
+    * e.g. Apple Permissions
+6. Discussion
+
+---
+
+### 1. Introduction
+
+Ownership can be applied to many different areas
+
+This presentation focusses mainly on ownership from a digital, organizational and software perspective 
+
+Ownership is considered as taking the responsibility for anything 
+
+---
+
+### 2. Concept of Ownership
+
+* Objects in a business should only have one owner
+* No object should be ownerless
+* Objects fall into one of these categories:
+    * Products
+    * Ressources
+    * Channels
+    * Immaterial assets
+    
+> The honeycomb of ownership    
+
+---
+
+### 2. Concept of Ownership
+
+* Companies must allocate unique ownership for objects
+* More than one owner can delay the achievement of goals
+
+---
+
+### 2. Concept of Ownership - The Honeycomb
+
+_Bild einfügen_
+
+---
+
+### 3. Responsibilities of Owners
+
+_BILD von Strichmännchen Jack_
+
+---
+
+### 3. Responsibilities of Owners
+
+* One should organize responsibilities in companies by ownership -> not by ~functions~ 
+* Ownership must be decided, established and removed by top level managers of a business
+* Only owner chooses how to use and change an object
+* Has full responsibility about object maintanance and development
+
+---
+
+### 3. Responsibilities of Owners
+
+* Can make use of other owners' products and ressources for his purposes 
+* Gets financial aid for object management 
+* Passes on ownership 
+* Can lend porperties to others and give modifications rights
+* Owners are supported by their teams
+
+---
+
+### 4. Types of Ownership
+#### Single-editor Ownership
+
+text einfügen
+
+---
+
+### 4. Types of Ownership
+#### Multiple-editor Ownership
+
+text einfügen
+
+---
+
+### 5. Digital Ownership
+
+*Fundamental Question*: If you buy an object, does the associated data, information, knowledge belong to you? Do you own the object digitally as well?
+
+---
+
+### 5. Digital Ownership
+
+Digital ownership is the 
+
+_"abillity to acces the information and knowledge of physically owned objects at any time, anywhere and use them and control the access of other users to it"_ 
+
+(Kusper, 2014)
+
+---
+
+### 5. Digital Ownership
+
+* Permission to access and use data and knowledge about ourselves and about objects we own
+* Can grant or revoke rights on this data
+* Helps to gain control on huge data
+* Sum of data = digital treasure
+* Layer of IoT: Easily accessing information about own objects is challenging -> IoT infrastructure has not been built yet
+* In the information society digital ownership is a natural basic right
+* More and more objects in lives incorporate software and that software is conveyed to people under contract (license) and not ownership -> we do not really own these anymore
 
 ---
 
