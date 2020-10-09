@@ -64,13 +64,13 @@ Ownership is considered as taking the responsibility for anything
 
 ### 2. Concept of Ownership - The Honeycomb
 
-_Bild einfügen_
+![honeycomb](honeycomb.png)
 
 ---
 
 ### 3. Responsibilities of Owners
 
-_BILD von Strichmännchen Jack_
+![ownerjack](ownerjack.jpg)
 
 ---
 
