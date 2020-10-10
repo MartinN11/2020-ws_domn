@@ -64,7 +64,7 @@ Ownership is considered as taking the responsibility for anything
 
 ### 2. Concept of Ownership - The Honeycomb
 
-![honeycomb](honeycomb.png)
+![honeycomb](honeycomb.jpg)
 
 ---
 
