@@ -70,7 +70,7 @@ Ownership is considered as taking the responsibility for anything
 
 ### 3. Responsibilities of Owners
 
-![ownerjack](ownerjack.jpg)
+![jack](jack.png)
 
 ---
 
