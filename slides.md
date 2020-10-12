@@ -138,5 +138,9 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 
 ---
 
+### 7. Problems of Ownership
+
+---
+
 # _Thank you for your Attention_
 
