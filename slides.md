@@ -90,13 +90,13 @@ Ownership is considered as taking the responsibility for anything
 
 ---
 
-### 5. Digital Ownership
+### 4. Digital Ownership
 
 *Fundamental Question*: If you buy an object, does the associated data, information, knowledge belong to you? Do you own the object digitally as well?
 
 ---
 
-### 5. Digital Ownership
+### 4. Digital Ownership
 
 Digital ownership is the 
 
@@ -106,7 +106,7 @@ _"abillity to acces the information and knowledge of physically owned objects at
 
 ---
 
-### 5. Digital Ownership
+### 4. Digital Ownership
 
 * Permission to access and use data and knowledge about ourselves and about objects we own
 * Can grant or revoke rights on this data
@@ -117,5 +117,14 @@ _"abillity to acces the information and knowledge of physically owned objects at
 
 ---
 
-# _Thank You for your Attention_
+### 5. What does it mean to work for a Company that values Ownership?
+
+* Taking initiative to bring about positive results
+* Do not wait for others to acts; care as much about outcome as the company owner would
+* Be accountable for results of actions - highest quality & delivered on time 
+* Show others that they can trust you to do the right thing
+
+---
+
+# _Thank you for your Attention_
 
