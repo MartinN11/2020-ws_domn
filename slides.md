@@ -23,7 +23,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
     * XYZ
     * XY 
 5. Problems of Ownership
-    * e.g. Apple Permissions
+    * Apple Permissions Issues
 5. Discussion
 
 ---
@@ -139,6 +139,18 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 ---
 
 ### 7. Problems of Ownership
+
+   * Apple Permission Issues 
+* Permission errors usually associated with Linux and MacOS installations 
+* Files and directories have three operation privileges available: read ®, write (w) and execute (x)
+* System user can perform different operations depending on their operation privileges and the groups this user belongs to
+
+---
+
+### 7. Problems of Ownership
+
+* Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
+* GibHub example > Microsoft program causes problems when used on MacOS
 
 ---
 
