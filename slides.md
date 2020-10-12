@@ -126,5 +126,13 @@ _"abillity to acces the information and knowledge of physically owned objects at
 
 ---
 
+### 5. What does it mean to work for a Company that values Ownership?
+
+_"Ownership means I have an obligation to the organization in terms of results, and that I have an obligation to act on the items that impact those results. I may have to assemble a team to help me bring about results, but ultimately, I must be accountable and own the results of my actions."_
+
+(Wilms, 2017)
+
+---
+
 # _Thank you for your Attention_
 
