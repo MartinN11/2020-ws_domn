@@ -145,12 +145,15 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 * Files and directories have three operation privileges available: read ®, write (w) and execute (x)
 * System user can perform different operations depending on their operation privileges and the groups this user belongs to
 
+
 ---
 
 ### 7. Problems of Ownership
 
-* Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
-* GibHub example -> Microsoft program causes problems when used on MacOS
+* Ownership & permission errors can occur when account has been moved or file owner was modified 
+    * Run through the process to repair user permissions or adjusting files ownership directly -> intended user will regain access 
+Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
+* GibHub example -> Microsoft program causes problems when used on Mac
 
 ---
 
