@@ -11,9 +11,6 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 1. Concept of Ownership 
     * The Ownership Honeycomb
 1. Responsibilities of Owners
-1. Types of Ownership
-    * Single-editor Ownership
-    * Multiple-editor Ownership
 1. Digital Ownership
 
 
@@ -90,20 +87,6 @@ Ownership is considered as taking the responsibility for anything
 * Passes on ownership 
 * Can lend porperties to others and give modifications rights
 * Owners are supported by their teams
-
----
-
-### 4. Types of Ownership
-#### Single-editor Ownership
-
-text einfügen
-
----
-
-### 4. Types of Ownership
-#### Multiple-editor Ownership
-
-text einfügen
 
 ---
 
