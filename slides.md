@@ -18,13 +18,13 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 # Agenda
 
-6. What does it mean to work for a Company that values Ownership?
-6. Applied Ownership in Companies
+5. What does it mean to work for a Company that values Ownership?
+5. Applied Ownership in Companies
     * XYZ
     * XY 
-6. Problems of Ownership
+5. Problems of Ownership
     * e.g. Apple Permissions
-6. Discussion
+5. Discussion
 
 ---
 
@@ -131,6 +131,10 @@ _"abillity to acces the information and knowledge of physically owned objects at
 _"Ownership means I have an obligation to the organization in terms of results, and that I have an obligation to act on the items that impact those results. I may have to assemble a team to help me bring about results, but ultimately, I must be accountable and own the results of my actions."_
 
 (Wilms, 2017)
+
+---
+
+### 6. Applied Ownership in Companies
 
 ---
 
