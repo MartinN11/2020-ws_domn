@@ -73,7 +73,7 @@ Ownership is considered as taking the responsibility for anything
 
 ### 3. Responsibilities of Owners
 
-* One should organize responsibilities in companies by ownership -> not by ~functions~ 
+* One should organize responsibilities in companies by ownership -> not by functions 
 * Ownership must be decided, established and removed by top level managers of a business
 * Only owner chooses how to use and change an object
 * Has full responsibility about object maintanance and development
@@ -150,7 +150,7 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 ### 7. Problems of Ownership
 
 * Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
-* GibHub example > Microsoft program causes problems when used on MacOS
+* GibHub example -> Microsoft program causes problems when used on MacOS
 
 ---
 
