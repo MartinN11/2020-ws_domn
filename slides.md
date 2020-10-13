@@ -175,19 +175,41 @@ Company Example
 
 ### 7. Problems of Ownership
 
-Apple Permission Issues
+_"Data has become ever more important for businesses, yet the issue of who owns it has become equally more difficult to determine."_
 
-* Permission errors usually associated with Linux and MacOS installations
-* Files and directories have three operation privileges available: read ®, write (w) and execute (x)
-* System user can perform different operations depending on their operation privileges and the groups this user belongs to
+(Williamson, 2018)
 
 ---
 
 ### 7. Problems of Ownership
 
+> Example: automobile drivertrain with carious embedded sensors and fitted to a vehicle. 
+
+_Who owns the data being generated – the driver, the dealer, the OEM or the supplier?_
+
+---
+
+### 7. Problems of Ownership 
+
+_"A question about data ownership on its own is too simplistic. A better question would be, who can most benefit from owning that data? In the case of the drivetrain, you would ultimately expect that to probably be the dealer and the manufacturer."_
+
+(Williamson, 2018)
+
+---
+
+### 7. Problems of Ownership
+
+* Permission errors usually associated with Linux and MacOS installations
+* System user can perform different operations depending on their operation privileges and the groups this user belongs to
 * Ownership & permission errors can occur when account has been moved or file owner was modified 
-    * Run through the process to repair user permissions or adjusting files ownership directly -> intended user will regain access 
-Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
+* Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
+
+---
+
+### 7. Problems of Ownership
+
+Apple Permission Issues
+
 * GibHub example -> Microsoft program causes problems when used on Mac
 
 ---
