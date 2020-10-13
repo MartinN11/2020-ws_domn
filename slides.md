@@ -72,18 +72,21 @@ Ownership is considered as taking the responsibility for anything
 * Determine the best solution to satisfy it
 * Build a shared understanding of the solution
 
-> ensure most valuable and proper functionality of product
+> Ensure most valuable and proper functionality of product
 
 ---
 
 ### 2. Concept of Ownership - The Honeycomb - _Products_
 
-A product owner...
+    The product owner...
 
-    ...is a products key stakeholder
-    ...has a vision what to build 
-    ...needs to understand users, marketplace, competition and future trends
-    ...has to motivate the team members and communicate
+ ...is a products key stakeholder
+
+ ...has a vision what to build 
+
+...needs to understand users, marketplace, competition and future trends
+
+...has to motivate the team members and communicate
 
 ---
 
@@ -157,6 +160,11 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 ---
 
 ### 6. Applied Ownership in Companies
+
+* Ownership is taking the initiative to bring about positive results.
+* It means not waiting for others to act and caring about the outcome as much as an owner of the company would.
+* It is being accountable for the results of your actions - that are the of the highest quality and delivered in a timely manner.
+* Taking ownership shows others that they can trust you to do the right thing. 
 
 ---
 
