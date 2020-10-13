@@ -162,11 +162,11 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 
 ### 7. Problems of Ownership
 
-   * Apple Permission Issues 
-* Permission errors usually associated with Linux and MacOS installations 
+Apple Permission Issues
+
+* Permission errors usually associated with Linux and MacOS installations
 * Files and directories have three operation privileges available: read ®, write (w) and execute (x)
 * System user can perform different operations depending on their operation privileges and the groups this user belongs to
-
 
 ---
 
