@@ -194,6 +194,8 @@ Permission issue occurs when an application (or system user) is performing unaut
 
 ### 8. Discussion
 
+> Has anybody experienced ownership issues in organisations?
+
 ---
 
 # _Thank you for your Attention_
