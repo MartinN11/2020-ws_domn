@@ -57,14 +57,14 @@ Ownership is considered as taking the responsibility for anything
 * More than one owner can delay the achievement of goals
 
 ---
-
-### 2. Concept of Ownership - The Honeycomb
-
+##### 2. Concept of Ownership - The Honeycomb
 ![honeycomb](honeycomb.jpg)
 
+###### [© Prof. Dr. Ulrich Anders · concepts cards© license CC BY-NC-ND 4.0 ](https://ulrich-anders.eu/papers/Prof-Dr-Ulrich-Anders_concept-card_Ownership_v1.1.0.pdf)
 ---
 
-### 2. Concept of Ownership - The Honeycomb - _Products_
+### 2. Concept of Ownership 
+### The Honeycomb - _Products_
 
 * Understand stakeholder needs
 * Determine if the need is worth satisfying
@@ -75,9 +75,10 @@ Ownership is considered as taking the responsibility for anything
 
 ---
 
-### 2. Concept of Ownership - The Honeycomb - _Products_
+### 2. Concept of Ownership 
+### The Honeycomb - _Products_
 
-    The product owner...
+> The product owner...
 
  ...is a products key stakeholder
 
