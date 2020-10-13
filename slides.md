@@ -144,9 +144,10 @@ _"abillity to acces the information and knowledge of physically owned objects at
 
 ### 5. What does it mean to work for a Company that values Ownership?
 
----
-
-
+* I can make a difference within the organization 
+* I have the support of the leadership team 
+* I can chase down my passions and incorporate that into my position 
+* I feel trusted 
 
 ---
 
