@@ -65,6 +65,28 @@ Ownership is considered as taking the responsibility for anything
 
 ---
 
+### 2. Concept of Ownership - The Honeycomb - _Products_
+
+* Understand stakeholder needs
+* Determine if the need is worth satisfying
+* Determine the best solution to satisfy it
+* Build a shared understanding of the solution
+
+> ensure most valuable and proper functionality of product
+
+---
+
+### 2. Concept of Ownership - The Honeycomb - _Products_
+
+A product owner...
+
+    ...is a products key stakeholder
+    ...has a vision what to build 
+    ...needs to understand users, marketplace, competition and future trends
+    ...has to motivate the team members and communicate
+
+---
+
 ### 3. Responsibilities of Owners
 
 ![ownerjack](ownerjack.jpg)
