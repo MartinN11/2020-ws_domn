@@ -167,6 +167,12 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 
 ---
 
+### 6. Applied Ownership in Companies - TVNOW
+
+Company Example 
+
+---
+
 ### 7. Problems of Ownership
 
 Apple Permission Issues
