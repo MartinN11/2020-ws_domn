@@ -20,8 +20,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 5. What does it mean to work for a Company that values Ownership?
 5. Applied Ownership in Companies
-    * XYZ
-    * XY 
+    * TVNOW
 5. Problems of Ownership
     * Apple Permissions Issues
 5. Discussion
