@@ -144,10 +144,9 @@ _"abillity to acces the information and knowledge of physically owned objects at
 
 ### 5. What does it mean to work for a Company that values Ownership?
 
-* Taking initiative to bring about positive results
-* Do not wait for others to acts; care as much about outcome as the company owner would
-* Be accountable for results of actions - highest quality & delivered on time 
-* Show others that they can trust you to do the right thing
+---
+
+
 
 ---
 
@@ -161,10 +160,10 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 
 ### 6. Applied Ownership in Companies
 
-* Ownership is taking the initiative to bring about positive results.
-* It means not waiting for others to act and caring about the outcome as much as an owner of the company would.
-* It is being accountable for the results of your actions - that are the of the highest quality and delivered in a timely manner.
-* Taking ownership shows others that they can trust you to do the right thing. 
+* Taking initiative to bring about positive results
+* Do not wait for others to act; care as much about outcome as the company owner would
+* Be accountable for results of actions - highest quality & delivered on time 
+* Show others that they can trust you to do the right thing
 
 ---
 
