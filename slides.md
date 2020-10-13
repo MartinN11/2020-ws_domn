@@ -198,12 +198,9 @@ _"A question about data ownership on its own is too simplistic. A better questio
 
 ---
 
-### 7. Problems of Ownership
+### 7. Problems of Ownership 
 
-* Permission errors usually associated with Linux and MacOS installations
-* System user can perform different operations depending on their operation privileges and the groups this user belongs to
-* Ownership & permission errors can occur when account has been moved or file owner was modified 
-* Permission issue occurs when an application (or system user) is performing unauthorized operation in the filesystem
+> Businesses and industry can’t continue to operate in an international grey area, especially as technology evolves. 
 
 ---
 
@@ -211,7 +208,17 @@ _"A question about data ownership on its own is too simplistic. A better questio
 
 Apple Permission Issues
 
-* GibHub example -> Microsoft program causes problems when used on Mac
+* Permission errors usually associated with MacOS installations
+* Ownership & permission errors can occur when account has been moved or file owner was modified 
+
+---
+
+### 8. Problems of Ownership
+
+Apple Permission Isssues 
+
+* Occur when an application (or system user) is performing unauthorized operation in the filesystem
+> GitHub example -> Microsoft program causes problems when used on Mac
 
 ---
 
