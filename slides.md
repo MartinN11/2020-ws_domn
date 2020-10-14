@@ -12,18 +12,18 @@ _Prof. Dr. Ulrich Anders - WS 2020_
     * The Ownership Honeycomb
 1. Responsibilities of Owners
 1. Digital Ownership
-
+1. What does it mean to work for a Company that values Ownership?
 
 ---
 
 # Agenda
 
-5. What does it mean to work for a Company that values Ownership?
-5. Applied Ownership in Companies
+
+6. Applied Ownership in Companies
     * TVNOW
-5. Problems of Ownership
+6. Problems of Ownership
     * Apple Permissions Issues
-5. Discussion
+6. Discussion
 
 ---
 
