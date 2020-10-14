@@ -98,19 +98,19 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ### 3. Responsibilities of Owners
 
-* One should organize responsibilities in companies by ownership -> not by functions 
-* Ownership must be decided, established and removed by top level managers of a business
-* Only owner chooses how to use and change an object
-* Has full responsibility about object maintanance and development
+* Organize responsibilities in companies by ownership 
+* Ownership must be decided, established and removed by top level managers 
+* Owner chooses how to use and change an object
+* Full responsibility about object maintanance and development
 
 ---
 
 ### 3. Responsibilities of Owners
 
-* Can make use of other owners' products and ressources for his purposes 
+* Make use of other owners' products and ressources for his purposes 
 * Gets financial aid for object management 
-* Passes on ownership 
-* Can lend porperties to others and give modifications rights
+* Pass on ownership 
+* Give modifications rights
 * Owners are supported by their teams
 
 ---
