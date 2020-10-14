@@ -125,7 +125,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 Digital ownership is the 
 
-_"abillity to acces the information and knowledge of physically owned objects at any time, anywhere and use them and control the access of other users to it"_ 
+_"ability to access the information and knowledge of physically owned objects at anytime, anywhere, and to use them and control the access of other users to it."_ 
 
 (Kusper, 2014)
 
