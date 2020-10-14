@@ -58,7 +58,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ---
 ##### 2. Concept of Ownership - The Honeycomb
-![thehoneycomb](thehoneycomb.jpg)
+![thehoneycomb](thehoneycomb.jpeg)
 
 ###### [© Prof. Dr. Ulrich Anders · concepts cards© license CC BY-NC-ND 4.0 ](https://ulrich-anders.eu/papers/Prof-Dr-Ulrich-Anders_concept-card_Ownership_v1.1.0.pdf)
 ---
