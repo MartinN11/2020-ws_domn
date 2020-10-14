@@ -64,7 +64,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 ---
 
 ### 2. Concept of Ownership 
-### The Honeycomb - _Products_
+#### The Honeycomb - _Products_
 
 * Understand stakeholder needs
 * Determine if the need is worth satisfying
