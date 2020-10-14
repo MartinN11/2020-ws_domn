@@ -182,7 +182,7 @@ _"Data has become ever more important for businesses, yet the issue of who owns 
 
 ### 7. Problems of Ownership
 
-> Example: automobile drivertrain with carious embedded sensors and complex softwares
+> Example: automobile drivertrain with complex softwares
 
 _Who owns the data being generated – the driver, the dealer, the OEM or the supplier?_
 
