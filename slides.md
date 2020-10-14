@@ -43,7 +43,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 * No object should be ownerless
 * Objects fall into one of these categories:
     * Products
-    * Ressources
+    * Resources
     * Channels
     * Immaterial assets
     
@@ -184,7 +184,7 @@ _"Data has become ever more important for businesses, yet the issue of who owns 
 
 ### 7. Problems of Ownership
 
-> Example: automobile drivertrain with carious embedded sensors and fitted to a vehicle. 
+> Example: automobile drivertrain with carious embedded sensors and complex softwares
 
 _Who owns the data being generated – the driver, the dealer, the OEM or the supplier?_
 
