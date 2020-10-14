@@ -133,12 +133,10 @@ _"ability to access the information and knowledge of physically owned objects at
 
 ### 4. Digital Ownership
 
-* Permission to access and use data and knowledge about ourselves and about objects we own
-* Can grant or revoke rights on this data
-* Helps to gain control on huge data
-* Sum of data = digital treasure
-* Layer of IoT: Easily accessing information about own objects is challenging -> IoT infrastructure has not been built yet
-* In the information society digital ownership is a natural basic right
+* Permission to access and use data 
+* Provide or revoke rights
+* Gain control on huge data
+* Internet of Things 
 
 ---
 
@@ -161,17 +159,16 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 
 ### 6. Applied Ownership in Companies
 
-* Taking initiative to bring about positive results
-* Do not wait for others to act; care as much about outcome as the company owner would
-* Be accountable for results of actions - highest quality & delivered on time 
-* Show others that they can trust you to do the right thing
+* Taking initiative
+* Do not wait for others to act
+* Be accountable for results
+* Show others that they can trust you
 
 ---
 
-### 6. Applied Ownership in Companies - TVNOW
+### 6. Applied Ownership in Companies 
 
-Company Example 
-
+> TVNOW
 ---
 
 ### 7. Problems of Ownership
