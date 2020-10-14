@@ -211,7 +211,7 @@ Apple Permission Issues
 
 ---
 
-### 8. Problems of Ownership
+### 7. Problems of Ownership
 
 Apple Permission Isssues 
 
