@@ -117,7 +117,7 @@ Ownership is considered as taking the responsibility for anything
 
 ### 4. Digital Ownership
 
-*Fundamental Question*: If you buy an object, does the associated data, information, knowledge belong to you? Do you own the object digitally as well?
+*Fundamental Question*: If you buy an object, does the associated data, information and knowledge belong to you? Do you own the object digitally as well?
 
 ---
 
