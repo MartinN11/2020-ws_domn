@@ -29,11 +29,11 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ### 1. Introduction
 
-Ownership can be applied to many different areas
+* Ownership can be applied to many different areas
 
-This presentation focusses mainly on ownership from a digital, organizational and software perspective 
+* Focus set mainly on ownership from a digital, organizational and software perspective 
 
-Ownership is considered as taking the responsibility for anything 
+* Ownership is considered as taking the responsibility for anything 
 
 ---
 
