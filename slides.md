@@ -169,6 +169,7 @@ _"Ownership means I have an obligation to the organization in terms of results, 
 ### 6. Applied Ownership in Companies 
 
 > TVNOW
+
 ---
 
 ### 7. Problems of Ownership
@@ -225,5 +226,5 @@ Apple Permission Isssues
 
 ---
 
-# _Thank you for your Attention_
+# _Thank you for your Attention!_
 
