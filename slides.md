@@ -53,7 +53,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ### 2. Concept of Ownership
 
-* Companies must allocate unique ownership for objects
+* Companies must allocate unique ownership for objects -> responsibility
 * More than one owner can delay the achievement of goals
 
 ---
@@ -99,7 +99,7 @@ _Prof. Dr. Ulrich Anders - WS 2020_
 
 ### 3. Responsibilities of Owners
 
-* Organize responsibilities in companies by ownership 
+* Organize responsibilities in companies by ownership -> not functions
 * Ownership must be decided, established and removed by top level managers 
 * Owner chooses how to use and change an object
 * Full responsibility about object maintanance and development
